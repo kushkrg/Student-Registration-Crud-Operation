@@ -1,7 +1,8 @@
 <?php
-
+//database connection
 include('db.php');
 
+//adding data to the database
 if(isset($_POST['submit'])){
 	$u_card = $_POST['card_no'];
 	$u_f_name = $_POST['user_first_name'];
@@ -21,10 +22,7 @@ if(isset($_POST['submit'])){
 	$u_family = $_POST['family'];
 	$u_staff_id = $_POST['staff_id'];
 	
-
-
 	//image upload
-
 	$msg = "";
 	$image = $_FILES['image']['name'];
 	$target = "upload_images/".basename($image);
