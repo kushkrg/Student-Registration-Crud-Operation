@@ -19,7 +19,7 @@ include('db.php');
 <body>
 
 	<div class="container">
-	<img src="https://3.bp.blogspot.com/-790q7euCirI/X_sLF1yKQYI/AAAAAAAADyA/_iiPhDw3JsM-OGHa-L7YLP3cbW4paTa4wCK4BGAYYCw/s1600/technical-skill-logo-technology.png" alt="" width="350px" ><br><br>
+	<img src="https://codingcush.com/uploads/logo/logo_61b79976c34f5.png" alt="" width="350px" ><br><br>
 	<a href="#" class="btn btn-primary"><i class="fa fa-arrow-circle-left"></i> Back</a>
 	<button class="btn btn-primary" type="button" data-toggle="modal" data-target="#myModal">
   <i class="fa fa-plus"></i> Activate New Card
@@ -117,7 +117,7 @@ include('db.php');
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-		<center><img src="https://shivshaktiaarogya.com/images/logo.png" width="300px" height="80px" alt=""></center>
+		<center><img src="https://codingcush.com/uploads/logo/logo_61b79976c34f5.png" width="300px" height="80px" alt=""></center>
         <h4 class="modal-title text-center">Activate New Card</h4>
       </div>
       <div class="modal-body">
